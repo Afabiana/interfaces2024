@@ -1,4 +1,4 @@
-import { Carousel } from '../carousel.js'; 
+import { Carousel } from './carousel.js'; 
 import { SuggestedCarousel } from './suggestedCarousel.js';
 import ElementFactory from './elementFactory.js';
 // IDEA al detectar un cambio de dimensiones en la ventana, 

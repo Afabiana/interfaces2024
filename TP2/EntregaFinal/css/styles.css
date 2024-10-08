@@ -207,7 +207,7 @@ h1 {
 
     .carousel-container:hover .nav-btn {
         display: block;
-        background: url(./assets/arrow_nav.svg) no-repeat center;
+        background: url(../assets/arrow_nav.svg) no-repeat center;
         background-color: rgba(0, 0, 0, 0.8);
         width: 4%;
     }
