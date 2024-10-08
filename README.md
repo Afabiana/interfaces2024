@@ -9,3 +9,5 @@
 ## Enlaces a las entregas
 
  - [TP1 - Entrega Final](https://afabiana.github.io/interfaces2024/TP1/EntregaFinal/)
+
+ - [TP2 - Entrega Final](https://afabiana.github.io/interfaces2024/TP2/EntregaFinal/)
